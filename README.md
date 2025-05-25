@@ -16,7 +16,7 @@ pip install pandas
 
 ## Como usar
 
-1. Altere o `sheet_id` para o ID da sua planilha pública.
+1. Altere o `sheet_id` para o ID da sua planilha pública do Google Sheets. 
 2. Execute o script.
 
 ## Funções principais
